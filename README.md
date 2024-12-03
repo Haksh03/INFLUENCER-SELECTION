@@ -140,7 +140,8 @@ def main():
 ```
 
 # OUTPUTS
-The output consists of (Performance_metrics, Ranked_Influencers, Processed_videos) csv files 
+The output consists of (Performance_metrics, Ranked_Influencers, Processed_videos) csv files.
+
 The output folder consists of video frames, detected images and face_clusters which consists of images that have been repeated.
 
 # DATASET
