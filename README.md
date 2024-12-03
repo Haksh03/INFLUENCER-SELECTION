@@ -23,6 +23,10 @@ Extract frames from videos.
 Detect faces and generate embeddings.
 Cluster similar faces using DBSCAN.
 Calculate performance metrics for each influencer.
+####  influencers consistently drive better engagement 
+
+* This step is done by sorting(highest) the average perfornace of influencers and low standard deviation
+  
 Code Workflow
 # 1. Video Frame Extraction
 Extracts frames from videos provided via URLs.
