@@ -3,6 +3,18 @@
 
 This repository contains the implementation for analyzing influencer performance across video datasets. The analysis includes frame extraction, face detection, clustering, and performance metric calculation.
 
+## Problem statement
+
+In the crowded world of social media, choosing the right influencer can make or break a campaign's success. We need your help in building a data-driven approach to influencer selection.
+
+-> Build a system that can:
+
+Identify unique influencers appearing across these videos
+
+Calculate their average performance for each influencer 
+
+Help us understand which influencers consistently drive better engagement
+
 ### Project Overview
 #### Goal:
  Identify unique influencers in videos, calculate their average performance.
