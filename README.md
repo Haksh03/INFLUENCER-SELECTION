@@ -9,11 +9,11 @@ In the crowded world of social media, choosing the right influencer can make or 
 
 -> Build a system that can:
 
-Identify unique influencers appearing across these videos
+* Identify unique influencers appearing across these videos
 
-Calculate their average performance for each influencer 
+* Calculate their average performance for each influencer 
 
-Help us understand which influencers consistently drive better engagement
+* Help us understand which influencers consistently drive better engagement
 
 ### Project Overview
 #### Goal:
