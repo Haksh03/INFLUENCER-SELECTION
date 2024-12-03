@@ -25,7 +25,7 @@ Cluster similar faces using DBSCAN.
 Calculate performance metrics for each influencer.
 ####  influencers consistently drive better engagement 
 
-* This step is done by sorting(highest) the average perfornace of influencers and low standard deviation
+* This step is done by sorting(highest) the average performanace and low standard deviation of standard deviation of influencers which is mentioned in # Performance_metrics.csv.
   
 Code Workflow
 # 1. Video Frame Extraction
